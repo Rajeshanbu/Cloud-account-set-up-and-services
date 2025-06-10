@@ -1,8 +1,8 @@
 # EX NO: Cloud-account-set-up-and-services
 ~~~
-Name :K S Ashwin Kumar
+Name :RAJESH A
 
-Reg no: 212224040034
+Reg no: 212222100042
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
